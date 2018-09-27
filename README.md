@@ -1,1 +1,3 @@
 # informationRetrieval
+
+For research purposes
